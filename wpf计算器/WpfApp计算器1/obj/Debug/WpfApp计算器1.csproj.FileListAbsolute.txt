@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\bin\Debug\WpfApp计算器1.exe.config
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\bin\Debug\WpfApp计算器1.exe
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\bin\Debug\WpfApp计算器1.pdb
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1_MarkupCompile.cache
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1_MarkupCompile.lref
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.g.resources
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.Properties.Resources.resources
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.exe
+C:\Users\DELL\Desktop\新建文件夹\WpfApp计算器1\obj\Debug\WpfApp计算器1.pdb

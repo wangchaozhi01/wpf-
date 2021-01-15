@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp计算器1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp计算器1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="showtime" HorizontalAlignment="Left" Height="59" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="779"/>
+        <TextBox x:Name="TextShowNum" HorizontalAlignment="Left" Height="53" Margin="10,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="779"/>
+        <Button x:Name="btn6" Content="6" HorizontalAlignment="Left" Margin="555,221,0,0" VerticalAlignment="Top" Width="147" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn3" Content="3" HorizontalAlignment="Left" Margin="555,150,0,0" VerticalAlignment="Top" Width="147" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn8" Content="8" HorizontalAlignment="Left" Margin="397,292,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn5" Content="5" HorizontalAlignment="Left" Margin="397,221,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn2" Content="2" HorizontalAlignment="Left" Margin="397,150,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btnSub" Content="-" HorizontalAlignment="Left" Margin="28,292,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnOpe_Click"/>
+        <Button x:Name="btn7" Content="7" HorizontalAlignment="Left" Margin="210,292,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn4" Content="4" HorizontalAlignment="Left" Margin="210,221,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btnMul" Content="*" HorizontalAlignment="Left" Margin="28,221,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnOpe_Click"/>
+        <Button x:Name="btnClear" Content="c" HorizontalAlignment="Left" Margin="210,364,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnC_Click"/>
+        <Button x:Name="btnSum" Content="+" HorizontalAlignment="Left" Margin="28,363,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnOpe_Click"/>
+        <Button x:Name="btnDiv" Content="/" HorizontalAlignment="Left" Margin="28,150,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnOpe_Click"/>
+        <Button x:Name="btn9" Content="9" HorizontalAlignment="Left" Margin="555,292,0,0" VerticalAlignment="Top" Width="147" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn1" Content="1" HorizontalAlignment="Left" Margin="210,150,0,0" VerticalAlignment="Top" Width="148" Height="47" Click="btnNum_Click"/>
+        <Button x:Name="btn0" Content="0" HorizontalAlignment="Left" Margin="397,364,0,0" VerticalAlignment="Top" Width="148" Height="46" Click="btnNum_Click"/>
+        <Button x:Name="btnEqual" Content="=" HorizontalAlignment="Left" Margin="555,363,0,0" VerticalAlignment="Top" Width="147" Height="47" Click="btnEqual_Click"/>
+
+    </Grid>
+</Window>
